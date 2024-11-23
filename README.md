@@ -11,3 +11,8 @@
    * Vanila Js App using vite
    * Vercel to make my project live
 
+# Contributors
+ Munaf Sumbhaniya
+
+ # Live
+ [Live Demo](https://footwear-react-app.vercel.app/)

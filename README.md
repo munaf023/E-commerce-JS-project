@@ -15,4 +15,4 @@
  Munaf Sumbhaniya
 
  # Live
- [Live Demo](https://footwear-react-app.vercel.app/)
+ [Live Demo](https://e-commerce-project-lyart.vercel.app/)
